@@ -10,6 +10,7 @@ module Elasticsearch
     # @see Elasticsearch::Model::Adapter::Default
     # @see Elasticsearch::Model::Adapter::ActiveRecord
     # @see Elasticsearch::Model::Adapter::Mongoid
+    # @see Elasticsearch::Model::Adapter::MongoMapper
     #
     module Adapter
 
